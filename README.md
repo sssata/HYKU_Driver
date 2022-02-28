@@ -9,7 +9,7 @@ If you have a multi-monitor setup and find that the cursor is confined to your p
 
 # Installation
 
-1. [Disable Driver Signature Verification]?(https://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/)
+1. [Disable Driver Signature Verification](https://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/)
 2. Go to Control Panel\Hardware and Sound\Devices and Printers
 3. Right click on HYKU Tablet and click Properties
 4. Go to the Hardware tab and select HID Compliant Mouse
