@@ -9,14 +9,16 @@ If you have a multi-monitor setup and find that the cursor is confined to your p
 
 # Installation
 
-1. [Disable Driver Signature Verification](https://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/)
-2. Go to Control Panel\Hardware and Sound\Devices and Printers
-3. Right click on HYKU Tablet and click Properties
-4. Go to the Hardware tab and select HID Compliant Mouse
-5. Click Properties and click Change Settings
-6. Click the Drivers tab and click Update Driver
-7. Click Browse my Computer for Drivers -> Let Me Pick From a List... -> Have Disk -> Browse to this folder -> Ok -> ... Until driver is installed.
-8. Done
+1. Download moufiltr.zip from the [Releases](https://github.com/sssata/HYKU_Driver/releases) page.
+2. Extract the zip to a new folder.
+3.  [Disable Driver Signature Verification](https://www.howtogeek.com/167723/how-to-disable-driver-signature-verification-on-64-bit-windows-8.1-so-that-you-can-install-unsigned-drivers/)
+4. Go to Control Panel\Hardware and Sound\Devices and Printers
+5. Right click on HYKU Tablet and click Properties
+6. Go to the Hardware tab and select HID Compliant Mouse
+7. Click Properties and click Change Settings
+8. Click the Drivers tab and click Update Driver
+9. Click Browse my Computer for Drivers -> Let Me Pick From a List... -> Have Disk -> Browse to the folder that you extracted moufiltr.zip to -> Ok -> ... etc until driver is installed.
+10. Done
 
 
 
