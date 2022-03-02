@@ -1,5 +1,5 @@
 # HYKU_Driver
-Optional driver for HYKU Tablet, allows multi-monitor support
+Optional driver for HYKU Tablet that allows multi-monitor support
 
 # What does it do?
 This driver forces the HYKU Tablet to map to the entire virtual desktop instead of just the primary monitor to allow multi-monitor support.
