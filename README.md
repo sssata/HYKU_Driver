@@ -5,7 +5,12 @@ Optional driver for HYKU Tablet that allows multi-monitor support
 This driver forces the HYKU Tablet to map to the entire virtual desktop instead of just the primary monitor to allow multi-monitor support.
 
 # Do you need it?
-If you have a multi-monitor setup and find that the cursor is confined to your primary monitor when using the HYKU Tablet, this will allow you to use the tablet across your other monitors.
+If you:
+- Have a multi-monitor setup
+- Want to use the HYKU tablet for things other than osu!
+- Find that the cursor is confined to your primary monitor when using the HYKU Tablet
+
+This will allow you to use the tablet across your other monitors.
 
 # Installation
 
